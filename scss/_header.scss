@@ -1,0 +1,27 @@
+
+header{
+    background-color: rgb(10,38,64);
+    .container{
+        width: 90%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        ul{
+            margin-top: 20px;
+            display: flex;
+            li{
+                margin: 10px;
+                list-style: none;
+                a{
+                    text-decoration: none;
+                    color: #fff;
+                }
+            }
+        }
+    }
+}
+.btn{
+    padding: 8px 40px;
+    border-radius: 24px;
+}
+
