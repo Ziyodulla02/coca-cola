@@ -1,0 +1,34 @@
+
+.button{
+    width: 1200px;
+    height: 391px;
+    background-color: #0A2640;
+    color: #fff;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn__text{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.btn__card{
+  width: 500px;
+}
+input{
+    padding: 8px 40px;
+    border-radius: 24px;
+    border: none;
+    margin-left: 50px;
+}
+.btn2{
+    padding: 8px 40px;
+    border-radius: 24px;
+    background-color: rgba(101, 228, 163, 1);
+    border: none;
+    margin-left: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}

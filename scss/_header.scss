@@ -1,18 +1,21 @@
+header {
+    background-color: rgb(10, 38, 64);
 
-header{
-    background-color: rgb(10,38,64);
-    .container{
+    .container {
         width: 90%;
-        margin: auto;
+        margin: 0 auto;
         display: flex;
         justify-content: space-between;
-        ul{
+
+        ul {
             margin-top: 20px;
             display: flex;
-            li{
+
+            li {
                 margin: 10px;
                 list-style: none;
-                a{
+
+                a {
                     text-decoration: none;
                     color: #fff;
                 }
@@ -20,8 +23,8 @@ header{
         }
     }
 }
-.btn{
+
+.btn {
     padding: 8px 40px;
     border-radius: 24px;
 }
-
